@@ -179,6 +179,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <hr/>
 
+<h2 id="material">Material</h2>
+<p>
+The following material has been taught in the course and can be used for repac and for going deeper:
+<ul>
+	<li><a href="https://swcarpentry.github.io/shell-novice/">Shell Lesson</a></li>
+	<li><a href="https://swcarpentry.github.io/python-novice-inflammation/">Python Lesson</a></li>
+	<li><a href="https://swcarpentry.github.io/git-novice/">Git Lesson</a></li>
+	<li><a href="https://pandas.pydata.org/">Pandas Homepage</a></li>
+	<li><a href="https://hackyhour.github.io/Wuerzburg/">HackyHour</a></li>
+</ul>
+</p>
+
 {% comment %} 
  SURVEYS - DO NOT EDIT SURVEY LINKS 
 {% endcomment %}
